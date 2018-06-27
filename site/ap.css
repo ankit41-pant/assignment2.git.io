@@ -27,8 +27,8 @@
 
           padding: 5px 40px 5px 60px;
          background-color:rgb(60,179,113);
-  	  	border-bottom:2px solid black;
-       border-left:2px solid black; 
+  	  	border-bottom:1px solid black;
+       border-left:1px solid black; 
        font-size: 25px;}
 
   p{ 
@@ -39,7 +39,7 @@
    
       width:90%;
          height:50%;
-      font-size:18px; 
+      font-size:15px; 
      
       
        background-color:#808080;       
@@ -71,7 +71,7 @@
   .mift{ width:190%;
     margin-top:10px;
      padding-bottom: 30px;
-     font-size: 18px;
+     font-size: 15px;
   	}
         
 p{ 
