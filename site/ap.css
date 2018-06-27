@@ -3,14 +3,14 @@
   	       margin-bottom:1px;
   	       font-family: monospace;}
   	
-  	  *{box-sizing:border-box;}
+  	  *{box-sizing :border-box;}
  .left{float:right; 
          margin-right:-15px; 
 
           padding: 5px 30px 5px 40px;
          background-color:hsl(0,100%,90%);
-  	  	border-bottom:2px solid black;
-       border-left:2px solid black; 
+  	  	border-bottom:1px solid black;
+       border-left:1px solid black; 
        font-size: 25px;
 
   	  }  	  
@@ -112,7 +112,7 @@ p{
 .col-md-12 {width: 100%;}
 
 }
- @media(min-width: 995px){
+ @media(min-width: 992px){
  .col-lg-1,.col-lg-2,.col-lg-2,.col-lg-3,.col-lg-4,.col-lg-5,.col-lg-6,.col-lg-7,.col-lg-8,.col-lg-9,.col-lg-10,.col-lg-11,.col-lg-12
 {float: left;
 
